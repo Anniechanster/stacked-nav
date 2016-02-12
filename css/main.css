@@ -27,8 +27,14 @@ h1 {
 
 li {
   background-color: #9a816d;
+  border: 1px solid #795437;
 }
 
-li :hover {
+.stackednav ul :hover {
   background-color: #795437;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
 }

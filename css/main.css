@@ -30,11 +30,11 @@ li {
   border: 1px solid #795437;
 }
 
-.stackednav ul :hover {
-  background-color: #795437;
-}
-
 ul li a {
   color: white;
   text-decoration: none;
+}
+
+.stackednav ul :hover {
+  background-color: #795437;
 }

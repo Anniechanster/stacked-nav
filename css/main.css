@@ -1,7 +1,7 @@
 html {
 	box-sizing: border-box;
   background-color: #9a816d;
-  font-family: Georgia, serif;
+  font-family: "Dosis", sans-serif;
   line-height: 1.5;
 }
 
@@ -9,7 +9,7 @@ html {
 	box-sizing: inherit;
 }
 
-.info-boxes {
+.stackednav {
   margin: 0;
   padding: 0;
   list-style-type: none;

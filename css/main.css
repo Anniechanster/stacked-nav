@@ -1,6 +1,6 @@
 html {
 	box-sizing: border-box;
-  background-color: #9a816d;
+  background-color: #f2f2f2;
   font-family: "Dosis", sans-serif;
   line-height: 1.5;
 }
@@ -10,8 +10,25 @@ html {
 }
 
 .stackednav {
+  color: #efeee9;
   margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center
+}
+
+h1 {
+  color: #462826;
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center
+}
+
+li {
+  background-color: #9a816d;
+}
+
+li :hover {
+  background-color: #795437;
 }
